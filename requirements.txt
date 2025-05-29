@@ -1,0 +1,10 @@
+streamlit==1.35.0
+moviepy==1.0.3
+speechbrain==0.5.14
+torch==2.2.2
+torchaudio==2.2.2
+transformers==4.38.2
+sentencepiece==0.1.99
+ffmpeg-python==0.2.0
+requests
+--prefer-binary
