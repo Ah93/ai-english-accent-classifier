@@ -4,7 +4,7 @@ speechbrain==0.5.14
 torch
 torchaudio
 transformers==4.38.2
-sentencepiece==0.1.99
+sentencepiece==0.2.0
 ffmpeg-python==0.2.0
 requests
 --prefer-binary
